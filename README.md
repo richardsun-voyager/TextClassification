@@ -1,5 +1,5 @@
 # TextClassification
-Text classification is an important field of Natural Language Processing(NLP), it can be used to automatically label news, text, comments in order to facilitate online information retrieval.
+Text classification is an important field of Natural Language Processing(NLP), it can be used to automatically label news, text, comments in order to facilitate online information retrieval. This project aims to explore efficient end-to-end models to classify texts in English accurately.
 
 Text classification invovles three steps:
 - Preprocessing, that is, how to make the texts clean, for example, we can remove the punctuation and typos, or we can take them as signs. 
