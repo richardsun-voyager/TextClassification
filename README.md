@@ -8,7 +8,7 @@ Text classification invovles three steps:
 
 In this project, we chose to remove punctuation and typos of texts and split those words. Then, we have tried three methods to extract features, to represent a text by TfIdf values of words, to represent a text by topic models, and to represent a text by artificial neural networks. On the basis of extracted features, we have applied varieties of models, such as decision trees, naive bayesian, SVM and deep neural networks to do classification.
 
-The dataset is 20newsgroup, quite messy originally.
+The dataset is 20newsgroup, quite messy originally. Actually there are approximately 500 samples for each category, not sufficient for deep learning. And the final results have shown that traditional bag-of-word model along with multi-layer perceptrons work better than simple deep learning models.
 
 The required packages:
 - Tensorflow 1.3
