@@ -10,6 +10,8 @@ In this project, we chose to remove punctuation and typos of texts and split tho
 
 The dataset is 20newsgroup, quite messy originally. Actually there are approximately 500 samples for each category, not sufficient for deep learning. And the final results have shown that traditional bag-of-word model along with multi-layer perceptrons work better than simple deep learning models.
 
+The base model is Stanford 20newsgroup classifier, the link: https://nlp.stanford.edu/wiki/Software/Classifier/20_Newsgroups .
+
 The required packages:
 - Tensorflow 1.3
 - scikit-learn 0.19
