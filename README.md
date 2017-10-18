@@ -16,3 +16,12 @@ The required packages:
 - Tensorflow 1.3
 - scikit-learn 0.19
 - matplotlib
+
+Platform:
+- Anaconda4.3
+- Python 3.5.2
+- Win10
+
+Hardware:
+- Nvidia GTX 960
+- i5 CPU
