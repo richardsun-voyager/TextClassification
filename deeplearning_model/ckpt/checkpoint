@@ -1,6 +1,0 @@
-model_checkpoint_path: "birnn.ckpt"
-all_model_checkpoint_paths: "birnn.ckpt-16"
-all_model_checkpoint_paths: "birnn.ckpt-17"
-all_model_checkpoint_paths: "birnn.ckpt-18"
-all_model_checkpoint_paths: "birnn.ckpt-19"
-all_model_checkpoint_paths: "birnn.ckpt"
